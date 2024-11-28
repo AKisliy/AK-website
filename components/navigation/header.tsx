@@ -4,8 +4,6 @@ import links from "@/config/links";
 import "../../app/globals.css";
 import Link from 'next/link';
 import { FaGithub, FaTelegram } from "react-icons/fa";
-import { Button } from "../ui/button";
-import { IoIosMail } from "react-icons/io";
 
 export default function Header() {
 	return (

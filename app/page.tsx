@@ -1,6 +1,5 @@
 import AboutSection from "@/components/home/about";
 import MainPreview from "@/components/home/main-preview";
-import Image from "next/image";
 
 export default function Home() {
   return (
