@@ -4,8 +4,6 @@ import { FaJsSquare } from "react-icons/fa";
 import { SiPostgresql } from "react-icons/si";
 
 export default function MainPreview() {
-    const iconSize = 80;
-
     return (
         <div className="flex flex-col lg:flex-row max-w-full mt-8 lg:mt-24 gap-10">
             <div className="flex items-center justify-start">
