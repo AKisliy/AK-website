@@ -13,7 +13,7 @@ export default function Header() {
                     <div className="flex bg-white rounded text-black p-2 pl-3 pr-3 text-2xl ">
                         K
                     </div>
-                    <Link href="\" className="text-2xl font-normal uppercase">
+                    <Link href="\" className="hidden lg:block text-2xl font-normal uppercase">
                         Kiselev Alexey
                     </Link>
                 </div>
